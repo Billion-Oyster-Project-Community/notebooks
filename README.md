@@ -1,6 +1,6 @@
 # Billion Oyster Project Notebooks
 
-This repository contains Jupyter Notebooks related to the analysis of the Billion Oyster Projects and New York Harbor.
+This repository contains Jupyter Notebooks related to the analysis of the Billion Oyster Projects data and New York Harbor.
 
 ## Contributing
 
